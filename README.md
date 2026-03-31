@@ -1,4 +1,5 @@
 ⚡ Quizzemon 
+
 O Quizzemon é uma plataforma de quizzes interativos inspirada na interface de aprendizado gamificada do Duolingo, mas com o foco total no universo Pokémon. O projeto foi desenvolvido para testar os conhecimentos dos treinadores através de uma jornada visualmente rica e intuitiva.
 
 👥 Desenvolvedores
