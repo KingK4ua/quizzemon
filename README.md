@@ -50,4 +50,4 @@ O arquivo principal index.html contém toda a estrutura da Sidebar, Área Princi
 
 Nota: Este projeto faz parte de um esforço conjunto para aplicar conceitos de lógica de programação e design de interface em um tema apaixonante para a comunidade geek.
 
-© 2024 QUIZZEMON - Desenvolvido com foco em aprendizado e diversão.
+© 2026 QUIZZEMON - Desenvolvido com foco em aprendizado e diversão.
